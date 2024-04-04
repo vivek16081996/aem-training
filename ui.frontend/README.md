@@ -1,6 +1,6 @@
 # Frontend Build
 
-## Features
+## Features and updated 
 
 * Full TypeScript, ES6 and ES5 support (with applicable Webpack wrappers).
 * TypeScript and JavaScript linting (using a TSLint ruleset – driven by ESLint - rules can be adjusted to suit your team's needs).
